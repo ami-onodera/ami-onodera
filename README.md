@@ -4,7 +4,7 @@ I'm Ami, from São Paulo - Brazil 🇧🇷 and living in Berlin - Germany 🇩�
 
 Please check my [full CV](https://ami-onodera.github.io/resume/resume.html) and my [portfolio](https://ami-onodera.github.io/resume/portfolio.html)!
 
-In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 .
+In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see my favorites [clicking here](https://amiflix.vercel.app)!
 
 ## Find me around the web 🌎
 
