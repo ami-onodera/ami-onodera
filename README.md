@@ -7,7 +7,7 @@ Please check my [full CV](https://ami-onodera.github.io/resume/resume.html) and 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
 ### Current Status 👩‍💻
-I am now focusing on deepening my knowledge of JavaScript and React, as I take the [SheCodes Plus and SheCodes React](https://www.shecodes.io/certificates/2714975085b0a1541b7aa4db7bebb93d) workshops and participate on the [Full Stack Open](https://github.com/ami-onodera/full-stack-open-2020){:target="_blank"} program from the **University of Helsinki**.
+I am now focusing on deepening my knowledge of JavaScript and React, as I take the [SheCodes Plus and SheCodes React](https://www.shecodes.io/certificates/2714975085b0a1541b7aa4db7bebb93d) workshops and participate on the [Full Stack Open](https://github.com/ami-onodera/full-stack-open-2020?target=_blank) program from the **University of Helsinki**.
 
 I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 
 
