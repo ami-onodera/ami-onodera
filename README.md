@@ -7,7 +7,10 @@ I'm Ami, from São Paulo - Brazil 🇧🇷 and living in Berlin - Germany 🇩�
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
 ## Current Status 👩‍💻
-I am now focusing on deepening my knowledge of JavaScript and React, as I take the [SheCodes Plus and SheCodes React](https://www.shecodes.io/certificates/2714975085b0a1541b7aa4db7bebb93d) workshops and participate on the [Full Stack Open](https://github.com/ami-onodera/full-stack-open-2020) program from the **University of Helsinki**. 🎯
+I am now focusing on deepening my knowledge of JavaScript and React, as I take the [SheCodes](https://www.shecodes.io/certificates/2714975085b0a1541b7aa4db7bebb93d) JavaScript and React workshops during the day and the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) course at the **ReDi School of Digital Integration** in the evenings.
+
+I am also participating on the [Full Stack Open](https://github.com/ami-onodera/full-stack-open-2020) program from the **University of Helsinki**. 🎯
+
 
 I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 🙌
 
