@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! 👋
+# <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
 I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now studying to become a Front-End Developer. I've gratudated from Le Wagon's full-stack web development bootcamp in June 2020, and I am currently a Teacher Assistant for the next batches in Berlin, Brasília and Rio de Janeiro. I am working hard on developing my skills so I can land my first job as a Front-End developer.
 
