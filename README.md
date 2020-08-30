@@ -14,7 +14,7 @@ In addition to that, I am also participating on the [Full Stack Open](https://gi
 _**I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 🙌**_
 
 
-### Find me around the web <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80">
+### Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/amionodera)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ami_sama)](https://twitter.com/ami_sama)
