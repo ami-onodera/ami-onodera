@@ -7,14 +7,19 @@ I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩�
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗  . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
-My focus now is on deepening my knowledge of JavaScript and React, as I take the [SheCodes](https://www.shecodes.io/certificates/2714975085b0a1541b7aa4db7bebb93d) workshops during the day and the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) course at the **ReDi School of Digital Integration** in the evenings.
+My focus now is on deepening my knowledge of JavaScript and React as I take the [SheCodes](https://www.shecodes.io/workshops) React workshop during the day and the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) course at the **ReDi School of Digital Integration** in the evenings.
 
 In addition to that, I am also participating on the [Full Stack Open](https://github.com/ami-onodera/full-stack-open-2020) program from the **University of Helsinki**. 🎯
 
 _**I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 🙌**_
 
+## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
-### Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
+* [Le Wagon FullStack Web Development](https://drive.google.com/file/d/1qBXrbM2isVnUWElCvQnSpJ6RKhIrdGOa/view)
+* [SheCodes Plus Workshop](https://www.shecodes.io/certificates/fcfef01ceceb568172764a4a7b7fe1c2)
+* [CodeCademy](https://www.codecademy.com/profiles/ami-onodera)
+
+## Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/amionodera)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ami_sama)](https://twitter.com/ami_sama)
