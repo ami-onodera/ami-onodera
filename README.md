@@ -16,7 +16,8 @@ _**I am looking for my first job as a Junior Front-End developer and open to opp
 ## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
 * [Le Wagon FullStack Web Development](https://drive.google.com/file/d/1qBXrbM2isVnUWElCvQnSpJ6RKhIrdGOa/view)
-* [SheCodes Plus Workshop](https://www.shecodes.io/certificates/fcfef01ceceb568172764a4a7b7fe1c2)
+* [SheCodes React](https://www.shecodes.io/certificates/72a06b0d7f8b0e7a8405c99b86c41a6b)
+* [SheCodes Plus](https://www.shecodes.io/certificates/fcfef01ceceb568172764a4a7b7fe1c2)
 * [CodeCademy](https://www.codecademy.com/profiles/ami-onodera)
 
 ## Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
