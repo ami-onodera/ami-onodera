@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now studying to become a Front-End Developer. I've gratudated from Le Wagon's full-stack web development bootcamp in June 2020, and I am currently a Teacher Assistant for the next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. I am working hard on developing my skills so I can land my first job as a Front-End developer.
+I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now studying to become a Front-End Developer. I've gratudated from the full-stack web development bootcamp at **Le Wagon** in June 2020, and I am currently a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. Since then, I've also successfully completed the **SheCodes Workshops** for JavaScript and React, as well as some independent projects. 
+
+I am working hard on developing my skills so I can land my first job as a Front-End developer.
 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗  . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
