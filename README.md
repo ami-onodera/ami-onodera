@@ -6,7 +6,7 @@ In my free time I like to play videogames 🎮 , to watch movies 🎞️ , serie
 
 ## CV and Portfolio <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
- **Please check my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)!** <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
+ **Please check here my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)!** <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
 
 
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
