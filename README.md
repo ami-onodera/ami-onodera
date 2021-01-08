@@ -21,6 +21,7 @@ _**I am looking for my first job as a Junior Front-End developer and open to opp
 ## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
 * [Le Wagon FullStack Web Development](https://drive.google.com/file/d/1qBXrbM2isVnUWElCvQnSpJ6RKhIrdGOa/view)
+* [ReDi School of Digital Integration](https://drive.google.com/file/d/1ySIEWttc7hmKHIbQUy4ufZzwD1DGuhIJ/view?usp=sharing)
 * [SheCodes React](https://www.shecodes.io/certificates/72a06b0d7f8b0e7a8405c99b86c41a6b)
 * [SheCodes Plus](https://www.shecodes.io/certificates/fcfef01ceceb568172764a4a7b7fe1c2)
 * [Full Stack Open 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/afd42f2be8e80c3d02edb4b1857a9fcf)
