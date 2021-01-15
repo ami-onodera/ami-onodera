@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Front-End Developer. I've graduated from the full-stack web development bootcamp at **Le Wagon** in June 2020, and I am currently a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. Since then, I've also successfully completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the **Full Stack Open** program from the **University of Helsinki**.
+I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Front-End Developer. I've graduated from the full-stack web development bootcamp at **Le Wagon** in June 2020, and I am currently a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. 
+
+I have also successfully completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the **Full Stack Open 2020** program from the **University of Helsinki**.
 
 I am working hard on developing my skills so I can land my first job as a Front-End developer.
 
