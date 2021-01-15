@@ -4,7 +4,7 @@ I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩�
 
 I am working hard on developing my skills so I can land my first job as a Front-End developer.
 
-In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗  . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
+In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
 ## CV and Portfolio <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
