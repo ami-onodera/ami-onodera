@@ -2,7 +2,7 @@
 
 I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Front-End Developer. After graduating from the full-stack web development bootcamp at **Le Wagon**, I have been a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. 
 
-I have also successfully completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the _Full Stack Open 2020_ program from the **University of Helsinki**.
+I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the _Full Stack Open_ program from the **University of Helsinki**.
 
 I am working hard on developing my skills so I can land my first job as a Front-End developer.
 
