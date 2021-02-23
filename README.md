@@ -14,9 +14,9 @@ In my free time I like to play videogames 🎮 , to watch movies 🎞️ , serie
 
 
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
-My focus now is on deepening my knowledge of React as I take the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**, and of course, I continue to develop some independent projects. 🎯
+My focus now is on deepening my knowledge of React as I take the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**, and of course, I continue to develop some independent projects. 
 
-During the month of March, I will be participating in the Piscine from 42 Wolfsburg. This is a very intensive trial to the school's admission, counting over 70h of work a week, for 4 weeks.
+During the month of March, I will be participating in the Piscine from 42 Wolfsburg. This is a very intensive trial to the school's admission, counting over 70h of work a week, for 4 weeks. 🎯
 
 _**I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 🙌**_
 
