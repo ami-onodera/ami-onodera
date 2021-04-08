@@ -35,3 +35,4 @@ _**I am looking for my first job as a Junior Front-End developer and open to opp
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amionodera)](https://www.linkedin.com/in/amionodera)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ami_sama)](https://twitter.com/ami_sama)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://ami-onodera.medium.com)](https://ami-onodera.medium.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-6F85D2?style=flat-square&labelColor=6F85D2&logo=discord&logoColor=white&link=https://discord.com/users/ami_sama#1486)](https://discord.com/users/ami_sama#1486)
