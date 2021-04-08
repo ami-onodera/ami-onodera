@@ -17,9 +17,9 @@ In my free time I like to play videogames 🎮 , to watch movies 🎞️ , serie
 
 I am currently a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that will start in May of 2021.
 
-My focus now is also on deepening my knowledge of React as I take the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**, and of course, I continue to develop some independent projects. 
+I am also working on deepening my knowledge of React as I take the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**. 
 
-_**I am looking for my first job as a Junior Front-End developer and open to opportunities in Berlin area or remote. 🙌**_
+_**I am looking for my first job as a Junior developer and open to opportunities in Berlin area or remote. 🙌**_
 
 ## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
