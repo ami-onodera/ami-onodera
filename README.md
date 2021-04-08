@@ -1,10 +1,10 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and living in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Front-End Developer. After graduating from the full-stack web development bootcamp at **Le Wagon**, I have been a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_. 
+I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Software Developer.I am currently a student at **42 Wolfsburg** coding school and I am persuing a higher education in programming. If you are interested in participating on the _Piscine_ from the 42 coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e) 
+
+Before attending **42**, I took the full-stack web development bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_ ever since.
 
 I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the _Full Stack Open_ program from the **University of Helsinki**.
-
-As from May of 2021 I was accepted into the **42 Wolfsburg** coding school and I am persuing a higher education in programming. If you are interested in participating on the _Piscine_ from the 42 coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e) 
 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
@@ -32,5 +32,5 @@ _**I am looking for my first job as a Junior Front-End developer and open to opp
 
 ## Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/amionodera)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amionodera)](https://www.linkedin.com/in/amionodera)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ami_sama)](https://twitter.com/ami_sama)
