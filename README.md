@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Software Developer.I am currently a student at **42 Wolfsburg** coding school and I am persuing a higher education in programming. If you are interested in participating on the _Piscine_ from the 42 coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e) 
+I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Software Developer.I am currently a student at **42 Wolfsburg** coding school and I am persuing a higher education in programming. 
 
 Before attending **42**, I took the full-stack web development bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_, _Brasília_ and _Rio de Janeiro_ ever since.
 
@@ -11,6 +11,8 @@ In my free time I like to play videogames 🎮 , to watch movies 🎞️ , serie
 ## CV and Portfolio <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
  **Please check here my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)!** <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
+ 
+If you are interested in participating on the _Piscine_ from the **42 Wolfsburg** coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e).
 
 
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
