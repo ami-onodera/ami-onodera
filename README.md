@@ -8,7 +8,7 @@ I have also completed the **SheCodes Workshops** for JavaScript and React, the J
 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
 
-## CV and Portfolio <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
+## CV, Portfolio and links <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
  **Please check here my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)!** <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
  
