@@ -19,7 +19,7 @@ If you are interested in participating on the _**Piscine**_ from the **42 Wolfsb
 
 I am currently a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that will start in May of 2021.
 
-I am also learning React as I take the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**. 
+I am also learning React and taking the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) React course at the **ReDi School of Digital Integration**. 
 
 _**I am looking for my first job as a Junior developer and open to opportunities in Berlin area or remote. 🙌**_
 
