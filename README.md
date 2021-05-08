@@ -21,7 +21,7 @@ I am currently a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at t
 
 I am also learning React and taking the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) _React_ course at the **ReDi School of Digital Integration**. 
 
-_**I am looking for my first job as a Junior developer and open to opportunities in Berlin area or remote! 🙌**_
+_**I am open to opportunities as a Junior developer in Berlin area or remote! 🙌**_
 
 ## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
