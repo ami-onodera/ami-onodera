@@ -19,9 +19,9 @@ If you are interested in participating on the _**Piscine**_ from the **42 Wolfsb
 
 I am currently a Junior Front End Developer at [**iSPORTISTICS**](https://www.isportistics.com)
 
-I am also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that started in May of 2021.
+I'm also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that started in May of 2021.
 
-I am also learning React and taking the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) _React_ course at the **ReDi School of Digital Integration**. 
+In addition to that, I am also learning React and taking the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) _React_ course at the **ReDi School of Digital Integration**. 
 
 _**I am open to opportunities as a Junior developer in Berlin area or remote! 🙌**_
 
