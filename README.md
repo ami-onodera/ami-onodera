@@ -17,7 +17,7 @@ If you are interested in participating on the _**Piscine**_ from the **42 Wolfsb
 
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
 
-I am currently a Junior Front End Developer at [**iSPORTISTICS**](https://www.isportistics.com)
+I am currently a **Junior Front End Developer** at [**iSPORTISTICS**](https://www.isportistics.com)
 
 I'm also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that started in May of 2021.
 
