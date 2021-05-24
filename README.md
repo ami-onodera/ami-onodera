@@ -10,7 +10,7 @@ In my free time I like to play videogames 🎮 , to watch movies 🎞️ , serie
 
 ## CV, Portfolio and links <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
- **Please check here my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)!** <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
+ Please check here my [full CV](https://ami-onodera-cv.vercel.app/resume.html) and [portfolio](https://ami-onodera-cv.vercel.app/portfolio.html)! <img src="https://media.giphy.com/media/H83MRL5CkZ5mscwEAK/giphy.gif" width="40">
  
 If you are interested in participating on the _**Piscine**_ from the **42 Wolfsburg** coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e).
 
