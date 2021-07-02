@@ -21,7 +21,7 @@ I am currently a **Junior Front End Developer** at [**iSPORTISTICS**](https://ww
 
 I'm also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that started in May of 2021.
 
-In addition to that, I recently finished the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) course at the **ReDi School of Digital Integration** in Berlin.
+In addition to that, I recently finished the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) program at the **ReDi School of Digital Integration** in Berlin.
 
 _**I am open to opportunities as a Junior developer in Berlin area or remote! 🙌**_
 
