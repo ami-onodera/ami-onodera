@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now aiming to become a Software Developer.I am currently a student at **42 Wolfsburg** coding school and I am persuing a higher education in programming. 
+I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Software Developer. I am currently a student at **42 Wolfsburg** coding school and I am pursuing higher education in programming.
 
-Before attending **42**, I took the full-stack web development bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_ and _Brasília_ since.
+Before attending **42**, I took the full-stack web development Bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_ and _Brasília_ since.
 
-I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript course from **ReDi School** in Berlin and have participated on the _Full Stack Open_ program from the **University of Helsinki**.
+I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript and React courses from **ReDi School** in Berlin, and have participated in other programs and workshops.
 
-In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . You can see some of my favorites on ["Amiflix"](https://amiflix.vercel.app)! 🤓
+In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . 
 
 ## CV, Portfolio and links <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
