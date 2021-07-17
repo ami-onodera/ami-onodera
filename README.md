@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Software Developer. I am currently a student at **42 Wolfsburg** coding school and I am pursuing higher education in programming.
+I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Front-End Developer. I am currently a student at **42 Wolfsburg** coding school and I am pursuing higher education in programming.
 
 Before attending **42**, I took the full-stack web development Bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_ and _Brasília_ since.
 
