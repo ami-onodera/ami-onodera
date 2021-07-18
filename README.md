@@ -4,7 +4,7 @@ I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩�
 
 Before attending **42**, I took the full-stack web development Bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_ and _Brasília_ since.
 
-I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript and React courses from **ReDi School** in Berlin, and have participated in other programs and workshops.
+I have also completed the **SheCodes Workshops** for JavaScript and React, the JavaScript and React courses from **ReDi School** in Berlin, and have participated in other courses and workshops.
 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . 
 
