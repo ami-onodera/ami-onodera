@@ -23,7 +23,7 @@ I'm also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the sch
 
 In addition to that, I recently finished the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) program at the **ReDi School of Digital Integration** in Berlin.
 
-_**I am open to opportunities as a Junior developer in Berlin area or remote! 🙌**_
+_I am open to opportunities as a Junior developer in Berlin area or remote! 🙌_
 
 ## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
