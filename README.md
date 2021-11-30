@@ -1,10 +1,6 @@
 # <img src="https://media.giphy.com/media/d6EwyJ26tcELQV7fAA/giphy.gif" width="40"> Hey there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Front-End Developer. I am currently a student at **42 Wolfsburg** coding school and I am pursuing higher education in programming.
-
-Before attending **42**, I took the full-stack web development Bootcamp at **Le Wagon**, and I have been a Teacher Assistant for their next batches in _Berlin_ and _Brasília_ since.
-
-I have also completed the [SheCodes Workshops](https://www.shecodes.io/certificates/72a06b0d7f8b0e7a8405c99b86c41a6b) for JavaScript and React, the JavaScript and React courses from [ReDi School](https://www.redi-school.org/berlin-career-program) in Berlin, and have participated in other courses and workshops.
+I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Front-End Developer. 
 
 In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . 
 
@@ -14,18 +10,11 @@ Here you can check my [full CV](https://ami-onodera-cv.vercel.app/resume.html) a
  
 If you are interested in participating on the **Piscine** from the **42 Wolfsburg** coding school, you can read about my experience [clicking here](https://ami-onodera.medium.com/42-wolfsburg-remote-piscine-preparation-tips-e97d5b11a11e).
 
+## Courses and Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
-## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
+I am currently attending **42 Wolfsburg** at the school's very first batch of students, that started in May of 2021. Before that, I took the full-stack web development Bootcamp at **Le Wagon**, and I worked as a Teacher Assistant for their batches in _Berlin_, _Rio de Janeiro_ and _Brasília_ for a year and a half after I finished.
 
-I am currently a **Junior Front End Developer** at [**iSPORTISTICS**](https://www.isportistics.com)
-
-I'm also a student at [**42 Wolfsburg**](https://42wolfsburg.de/en/), at the school's very first batch of students, that started in May of 2021.
-
-In addition to that, I recently finished the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) program at the **ReDi School of Digital Integration** in Berlin.
-
-_I am open to opportunities as a Junior developer in Berlin area or remote! 🙌_
-
-## Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
+In addition to that, I also graduated from the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) program at the **ReDi School of Digital Integration** in Berlin, the [SheCodes Workshops](https://www.shecodes.io/certificates/72a06b0d7f8b0e7a8405c99b86c41a6b) for JavaScript and React, and have participated in other courses and workshops listed below.
 
 * [Le Wagon FullStack Web Development](https://drive.google.com/file/d/1qBXrbM2isVnUWElCvQnSpJ6RKhIrdGOa/view)
 * [ReDi School - JavaScript](https://drive.google.com/file/d/1ySIEWttc7hmKHIbQUy4ufZzwD1DGuhIJ/view?usp=sharing)
@@ -34,6 +23,10 @@ _I am open to opportunities as a Junior developer in Berlin area or remote! 🙌
 * [SheCodes Plus](https://www.shecodes.io/certificates/fcfef01ceceb568172764a4a7b7fe1c2)
 * [Full Stack Open 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/afd42f2be8e80c3d02edb4b1857a9fcf)
 * [CodeCademy](https://www.codecademy.com/profiles/ami-onodera)
+
+## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
+
+I am currently a **Junior Web Developer** at [**Aklamio**](https://www.aklamio.com)
 
 ## Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
 
