@@ -2,7 +2,7 @@
 
 I'm Ami, from São Paulo - Brazil 🇧🇷  and based in Berlin - Germany 🇩🇪 . I am an ex-Art Director and Community Manager, now turned Front-End Developer. 
 
-In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 👗 . 
+In my free time I like to play videogames 🎮 , to watch movies 🎞️ , series 📺 , and animes 🌸 , to read books 📚 and to sew 🪡 . 
 
 ## CV, Portfolio and links <img src="https://media.giphy.com/media/fXcRRfTU3UnxExiwRD/giphy.gif" width="50"> 
 
@@ -12,7 +12,7 @@ If you are interested in participating on the **Piscine** from the **42 Wolfsbur
 
 ## Courses and Certificates <img src="https://media.giphy.com/media/Ze8fuHJ7SrRxCqvVQK/giphy.gif" width="50">
 
-I am currently attending **42 Wolfsburg** at the school's very first batch of students, that started in May of 2021. Before that, I took the full-stack web development Bootcamp at **Le Wagon**, and I worked as a Teacher Assistant for their batches in _Berlin_, _Rio de Janeiro_ and _Brasília_ for a year and a half after I finished.
+I attended **42 Wolfsburg** at the school's very first batch of students, that started in May of 2021. Before that, I took the full-stack web development Bootcamp at **Le Wagon**, and I worked as a Teacher Assistant for their batches in _Berlin_, _Rio de Janeiro_ and _Brasília_ for a year and a half after I finished.
 
 In addition to that, I also graduated from the JavaScript and React courses from the [Front-end Web Development](https://www.redi-school.org/berlin-career-program) program at the **ReDi School of Digital Integration** in Berlin, the [SheCodes Workshops](https://www.shecodes.io/certificates/72a06b0d7f8b0e7a8405c99b86c41a6b) for JavaScript and React, and have participated in other courses and workshops listed below.
 
@@ -24,9 +24,11 @@ In addition to that, I also graduated from the JavaScript and React courses from
 * [Full Stack Open 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/afd42f2be8e80c3d02edb4b1857a9fcf)
 * [CodeCademy](https://www.codecademy.com/profiles/ami-onodera)
 
+Besides the "tech stuff", I have a Bachelor's degree in Advertising and Art Direction 🎨 , and a MA in Aesthetics and Fashion Management 👗. 
+
 ## Current Status <img src="https://media.giphy.com/media/QWpIhanH9vo5wgAo7O/giphy.gif" width="80">
 
-I am currently a **Junior Web Developer** at [**Aklamio**](https://www.aklamio.com)
+I am currently a **Web Designer** at [**Aklamio**](https://www.aklamio.com)
 
 ## Find me around the web <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://media.giphy.com/media/dVcdfP0w06rdxIGKG5/giphy.gif" width="80"> 
 
